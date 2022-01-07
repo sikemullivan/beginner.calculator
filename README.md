@@ -1,5 +1,5 @@
 # beginner.calculator
-Beginner Calculator in C# .NET 6
+Beginner Console Calculator in C# .NET 6
 
 Built a simple console based calculator with my 9 year old son. 
 
